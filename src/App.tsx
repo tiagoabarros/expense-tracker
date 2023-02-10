@@ -51,7 +51,7 @@ export const App = () => {
   return (
     <C.Container>
       <C.Header>
-        <C.HeaderText>Controle de Trades</C.HeaderText>
+        <C.HeaderText>Sistema Controle Financeiro</C.HeaderText>
       </C.Header>
       <C.Body>
 
